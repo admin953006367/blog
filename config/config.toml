@@ -1,0 +1,18 @@
+[viewer]
+    Title = "李老肥的博客"
+    Description = "基于Go语言开发的博客"
+    Logo = "/resource/images/logo.png"
+    Navigation = ["首页","/", "GO语言","/golang", "归档","/pigeonhole"]
+    Bilibili = "/"
+    Zhihu = "/"
+    Avatar = "https://avatars.githubusercontent.com/u/39507301"
+    UserName = "李老肥"
+    UserDesc = "长得非常帅的程序员"
+[system]
+    CdnURL = "https://static.mszlu.com/goblog/es6/md-assets"
+    QiniuAccessKey = "替换自己的"
+    QiniuSecretKey = "替换自己的"
+    Valine = false
+    ValineAppid = "替换自己的"
+    ValineAppkey = "替换自己的"
+    ValineServerURL = "替换自己的"
